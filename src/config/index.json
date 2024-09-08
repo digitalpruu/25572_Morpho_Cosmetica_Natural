@@ -18,8 +18,8 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Morpho ",
-    "subtitle": "Cosmética Natural",
+    "title": " ",
+    "subtitle": "Morpho Cosmética Natural",
     "description": "LO NATURAL SIEMPRE RESALTARA TU BELLEZA.",
     "img": "/assets/images/1.png",
     "primaryAction": {
@@ -53,23 +53,23 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 313 2630225",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "Nidia.gomezca@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@morpho_col",
         "icon": "/assets/images/insta.png"
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "name": "Tiktok",
+        "description": "@morpho_col",
+        "icon": "/assets/images/tiktok.png"
       }
     ]
   },
