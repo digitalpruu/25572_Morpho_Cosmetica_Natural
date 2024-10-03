@@ -71,6 +71,12 @@
         "description": "@morpho_col",
         "icon": "/assets/images/tiktok.png",
         "url":""
+      },
+      {
+        "name": "Facebook",
+        "description": "Morpho cosmética natural",
+        "icon": "/assets/images/facebook.jpg",
+        "url":"https://www.facebook.com/share/SSbgWff24zT7UoTX/?mibextid=qi2Omg"
       }
     ]
   },
